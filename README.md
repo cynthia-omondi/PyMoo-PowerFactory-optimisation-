@@ -1,4 +1,5 @@
 # Multiobjective grid optimisation using PyMoo and PowerFactory
+[![DOI](https://zenodo.org/badge/1277269834.svg)](https://doi.org/10.5281/zenodo.20802531)
 
 ## Overview
 
