@@ -1,6 +1,6 @@
 # Multiobjective grid optimisation using PyMoo and PowerFactory
 
-=================================================
+---
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17961683.svg)](https://doi.org/10.5281/zenodo.17961683)
 
@@ -24,23 +24,12 @@ Functions include:
 - Objective function evaluation
 - Constraint handling
 - Execution of the optimization algorithm
-- Post-processing and visualization of results
-
-This notebook serves as the main entry point for reproducing the optimization studies.
-
+  
 ---
 
-### pymoo/core.py
+### pymoo/core/mixed.py
 
-Modified PyMOO source file.
-
-Changes were introduced to support:
-- Custom optimization logic
-- Problem-specific constraint handling
-- Enhanced solution evaluation procedures
-- Additional functionality required by the proposed methodology
-
-Refer to the code comments for detailed descriptions of individual modifications.
+Modified PyMOO source file. Changes were introduced to support crossover and mutation functions
 
 ---
 
