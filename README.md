@@ -7,6 +7,9 @@ It includes the optimization notebook as the modified source files.
 
 ## Repository Structure
 
+- ### README.rst
+PyMoo installation details and contact information for source code authors.
+
 - ### MY FUNC.ipynb
 Primary notebook for running the optimization workflow. Functions include: Problem setup and configuration, Decision variable definition, Objective function evaluation, Constraint handling, and execution of the optimization algorithm
 
