@@ -1,33 +1,17 @@
 # Multiobjective grid optimisation using PyMoo and PowerFactory
 
----
-
 ## Overview
 
-This repository contains a customized implementation of the PyMOO optimization framework developed to support the methodology presented in this research. Several components of the original PyMOO codebase were modified to accommodate problem-specific requirements and algorithmic enhancements.
-
-The repository includes the optimization notebook used to execute experiments as well as the modified source files required for reproducing the results.
-
----
+This repository contains code for the implementation of multi-objective grid optimisation linking PyMoo and PowerFactory.
+It includes the optimization notebook as the modified source files.
 
 ## Repository Structure
 
-### MY FUNC.ipynb
+- ### MY FUNC.ipynb
+Primary notebook for running the optimization workflow. Functions include: Problem setup and configuration, Decision variable definition, Objective function evaluation, Constraint handling, and execution of the optimization algorithm
 
-Primary notebook for running the optimization workflow.
-
-Functions include:
-- Problem setup and configuration
-- Decision variable definition
-- Objective function evaluation
-- Constraint handling
-- Execution of the optimization algorithm
-  
----
-
-### pymoo/core/mixed.py
-
-Modified PyMOO source file. Changes were introduced to support crossover and mutation functions
+- ### pymoo/core/mixed.py
+Modified PyMOO source file. Changes were introduced to support custom crossover and mutation functions
 
 ---
 
