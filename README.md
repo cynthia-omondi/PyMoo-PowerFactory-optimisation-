@@ -1,7 +1,7 @@
-# PyMoo-PowerFactory-optimisation
-Multiobjective grid optimisation using PyMoo and PowerFactory
+# Multiobjective grid optimisation using PyMoo and PowerFactory
 
 =================================================
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17961683.svg)](https://doi.org/10.5281/zenodo.17961683)
 
 ## Overview
