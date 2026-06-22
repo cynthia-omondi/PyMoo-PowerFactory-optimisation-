@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains code for the implementation of multi-objective grid optimisation linking PyMoo and PowerFactory.
-It includes the optimization notebook as the modified source files.
+It includes the optimization notebook and the modified source files.
 
 ## Repository Structure
 
