@@ -20,7 +20,7 @@ Modified PyMOO source file. Changes were introduced to support custom crossover 
 ---
 
 ## Citation (for new functions and modifications only)
-
+Omondi, C. (2026). Multiobjective grid optimisation using PyMoo and PowerFactory (Version v1). Zenodo. https://doi.org/10.5281/zenodo.20802532
 Note: For citing source code please refer to README.rst
 
 ## Contact
