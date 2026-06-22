@@ -8,7 +8,7 @@ It includes the optimization notebook as the modified source files.
 ## Repository Structure
 
 - ### README.rst
-PyMoo installation details and contact information for source code authors.
+PyMoo installation details and contact information and citation information for source code.
 
 - ### MY FUNC.ipynb
 Primary notebook for running the optimization workflow. Functions include: Problem setup and configuration, Decision variable definition, Objective function evaluation, Constraint handling, and execution of the optimization algorithm
@@ -18,9 +18,10 @@ Modified PyMOO source file. Changes were introduced to support custom crossover 
 
 ---
 
-## Citation
+## Citation (for new functions and modifications only)
 
+Note: For citing source code please refer to README.rst
 
 ## Contact
-For more information regarding the methodology, its functionality and implementation
+For more information regarding the modifications, functionality and implementation
 please contact the author at dorcus70@gmail.com
