@@ -2,8 +2,6 @@
 
 ---
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17961683.svg)](https://doi.org/10.5281/zenodo.17961683)
-
 ## Overview
 
 This repository contains a customized implementation of the PyMOO optimization framework developed to support the methodology presented in this research. Several components of the original PyMOO codebase were modified to accommodate problem-specific requirements and algorithmic enhancements.
