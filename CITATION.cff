@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Omondi"
+  given-names: "Cynthia"
+  orcid: "https://orcid.org/0000-0002-0249-6316"
+title: "Multi-objective grid optimisation using PyMoo and PowerFactory"
+version: 2.0.0
+doi: 10.5281/zenodo.20802532
+date-released: 2026-06-22
+url: "https://github.com/cynthia-omondi/PyMoo-PowerFactory-optimisation-"
